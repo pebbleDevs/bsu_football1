@@ -1,0 +1,25 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+        "type": "png",
+        "defName": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+        },
+        
+        {
+        "type": "png",
+        "defName": "BSU_BOW",
+        "file": "images/boise-state_BOW-w100.png"
+        },
+        
+        {
+        "type": "font",
+        "characterRegex": "[:0-9 ]",
+        "defName": "FONT_VARSITY_42",
+        "file": "fonts/varsity_regular.ttf"
+        } 
+
+	  ]
+}
